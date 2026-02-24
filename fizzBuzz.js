@@ -20,5 +20,4 @@ count++;
 console.log(output);
 }
 fizzBuzz();
-
-//
+// adding to github
